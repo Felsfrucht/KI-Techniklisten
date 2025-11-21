@@ -1,0 +1,5 @@
+{
+  "name": "EventMaster Connect",
+  "description": "A specialized PWA for event managers to merge seating and media plans into a single, intelligent dashboard using AI-powered PDF analysis.",
+  "requestFramePermissions": []
+}
